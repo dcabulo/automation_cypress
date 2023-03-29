@@ -16,4 +16,4 @@ Two scenarios one for web testing and one for api testing.
 
 if you want to run in a specific browser, spec or to generate reports use the flags.
 
-* npm run cy:run -- --browser <<path or browser>> --spec "cypress/e2e/<<spec name>>.cy.js" --reporter mochawesome
+* npm run cy:run -- --browser <path or browser> --spec "cypress/e2e/<spec name>.cy.js" --reporter mochawesome
