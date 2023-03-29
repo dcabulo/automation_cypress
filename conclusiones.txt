@@ -1,0 +1,14 @@
+Conclusiones
+
+<<<<<<< E2E >>>>>>>>
+
+* Se realizo el flujo indicado. Los selectores podrias mejorar ya que a futuro se pueden cambiar los selectores.
+* Se realizan los asserts necesarios en cada etapa para ir verificando en marcha los selectores y los contenidos de los mismos
+* Se trato de desacoplar los selectores y añadir una posible funcion que escoje el producto de acuerdo al nombre del mismo.
+
+<<<<<<< API >>>>>>>>
+
+* Se realizo el flujo indicado.
+* Los codigos de status no corresponden con el estandar, por ejemplo si un usuario ya existe este debe enviar un codigo distinto a 200.
+* La respuestas del api algunas son muy simples, por ejemplo al crear un usuario la respuesta no tiene un cuerpo lo cual dificulta chequear varias aspectos adicionales al status code.
+
